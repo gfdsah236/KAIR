@@ -1,3 +1,5 @@
+We can learn how to calculate `FLOPs`, `#Params`, `Runtime`, `#Activations`, `#Conv`, and `Max Memory Allocated`.
+
 ## Training and testing codes for USRNet, DnCNN, FFDNet, SRMD, DPSR, MSRResNet, ESRGAN, IMDN
 [Kai Zhang](https://cszn.github.io/)
 
